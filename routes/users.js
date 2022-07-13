@@ -41,8 +41,6 @@ router.post('/register',  async function (req, res) {
 				if (err) throw err;
 				const query = {
 					name: name,
-					email: email,
-					password: password,
 					gender: gender,
 					phoneNumber: phoneNumber,
 					city: city,
