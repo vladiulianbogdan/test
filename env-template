@@ -1,0 +1,16 @@
+NODE_ENV="DEV"
+SSLKEY=./cert.key
+SSLCERT=./cert.crt
+PORT=5100
+SECRET=yoursecretkey
+SMTP_HOST=undefined
+SMTP_PORT=undefined
+SMTP_SSL=undefined
+SMTP_USER=undefined
+SMTP_PASSWORD=undefined
+DB_USERNAME=root
+DB_PASS=admin
+DB_NAME=test
+DB_HOST=localhost
+DB_PORT=3306
+DB_DIALECT=mysql
